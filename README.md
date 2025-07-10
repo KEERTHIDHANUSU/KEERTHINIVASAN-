@@ -15,17 +15,18 @@
 
 ## 📂 Projects
 Here are some of my projects:
-- 📝 **Portfolio Website** — [View](https://keerthinivasan.github.io/portfolio-website) | [Code](https://github.com/keerthinivasan/portfolio-website)
-- 🎯 **Landing Page Clone** — [Code](https://github.com/keerthinivasan/landing-page-clone)
-- 📊 **Responsive Dashboard** — [Code](https://github.com/keerthinivasan/responsive-dashboard)
+- 📝 **Portfolio Website** — [View](https://keerthidhanusu.github.io/portfolio-website) | [Code](https://github.com/KEERTHIDHANUSU/portfolio-website)
+- 🎯 **Landing Page Clone** — [Code](https://github.com/KEERTHIDHANUSU/landing-page-clone)
+- 📊 **Responsive Dashboard** — [Code](https://github.com/KEERTHIDHANUSU/responsive-dashboard)
 
 ---
 
 ## 📫 Connect with me
 - 📧 Email: [keerthinivasan1@gmail.com](mailto:keerthinivasan1@gmail.com)
-- 💼 [GitHub](https://github.com/keerthinivasan)
+- 💼 [GitHub](https://github.com/KEERTHIDHANUSU)
 
 ---
 
 ⭐ Thanks for visiting my profile!
+
 

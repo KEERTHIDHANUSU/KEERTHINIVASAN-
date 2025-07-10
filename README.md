@@ -15,9 +15,10 @@
 
 ## 📂 Projects
 Here are some of my projects:
-- 📝 **Portfolio Website** — [View](https://keerthidhanusu.github.io/portfolio-website) | [Code](https://github.com/KEERTHIDHANUSU/portfolio-website)
-- 🎯 **Landing Page Clone** — [Code](https://github.com/KEERTHIDHANUSU/landing-page-clone)
-- 📊 **Responsive Dashboard** — [Code](https://github.com/KEERTHIDHANUSU/responsive-dashboard)
+- 📝 **HP Website Clone** — [View Live](https://keerthidhanusu.github.io/HPwebsite/) | [Code](https://github.com/KEERTHIDHANUSU/HPwebsite)
+- 🚧 **My Project (Ongoing)** — [View Live](https://keerthidhanusu.github.io/myproject/) | [Code](https://github.com/KEERTHIDHANUSU/myproject)
+- 🎯 **Landing Page Clone** — *Coming soon…*
+- 📊 **Responsive Dashboard** — *Coming soon…*
 
 ---
 
@@ -28,5 +29,3 @@ Here are some of my projects:
 ---
 
 ⭐ Thanks for visiting my profile!
-
-
